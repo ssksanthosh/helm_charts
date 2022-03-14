@@ -1,0 +1,14 @@
+
+# Release-wide Values
+replicas: 1
+version: 'latest'
+
+# Service Specific Values
+app1:
+  image: ssksanthosh/ex-nodejs-app1
+app2:
+  image: ssksanthosh/ex-nodejs-app2
+frontend:
+  image: nginx
+db:
+  image: mysql  

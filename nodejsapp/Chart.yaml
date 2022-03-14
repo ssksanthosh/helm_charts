@@ -1,0 +1,5 @@
+apiVersion: v2
+name: nodejs-app-demo
+description: A Helm chart for nodejs app depploy demo
+version: 0.1.0
+appVersion: 1.0
